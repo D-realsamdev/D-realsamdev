@@ -9,15 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source project**
 
-- 🤝 I’m looking for help with **Solidity**
-
 - 💬 Ask me about **Web 3.0, Flutter, Crypto, React, Web dev, Mobile Dev**
 
 - 📫 How to reach me **ajakayedamilola7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ajakaye-damilola-14aa83205/](https://www.linkedin.com/in/ajakaye-damilola-14aa83205/)
 
-- ⚡ Fun fact **I think am a frontend developer**
+- ⚡ Fun fact **I think am a Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
