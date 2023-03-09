@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajakaye Damilola</h1>
-<h3 align="center">Independent Frontend Engineer with 4 years of experience in blending the art of design with the skill of programming to deliver an immersive and engaging user experience through efficient website and mobile development, proactive feature optimization, and relentless debugging. I am passionate about software and mobile development, willing to learn and do what it takes to achieve organizational goals .</h3>
+<h3 align="center">Independent Software Engineer with 5 years of experience in blending the art of design with the skill of programming to deliver an immersive and engaging user experience through efficient website and mobile development, proactive feature optimization, and relentless debugging. I am passionate about software and mobile development, willing to learn and do what it takes to achieve organizational goals .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-realsamdev" alt="d-realsamdev" /></a> </p>
 
