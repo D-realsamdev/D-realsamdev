@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajakaye Damilola</h1>
-<h3 align="center">Independent Software Engineer with 5 years of experience in blending the art of design with the skill of programming to deliver an immersive and engaging user experience through efficient website and mobile development, proactive feature optimization, and relentless debugging. I am passionate about software and mobile development, willing to learn and do what it takes to achieve organizational goals .</h3>
+<h3 align="center">A highly skilled engineer passionate about building innovative solutions. I specialize in creating robust, scalable applications with a focus on user-centric design and seamless functionality. My expertise spans frontend, mobile, and backend development, enabling me to bring ideas to life from concept to deployment. Constantly learning and adapting, I thrive in dynamic environments where technology meets creativity.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-realsamdev" alt="d-realsamdev" /></a> </p>
 
@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **Solidity and Nodejs**
 
-- 👯 I’m looking to collaborate on **Open Source project**
-
-- 💬 Ask me about **Web 3.0, Flutter, Crypto, React, Web dev, Mobile Dev**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **ajakayedamilola7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ajakaye-damilola-14aa83205/](https://www.linkedin.com/in/ajakaye-damilola-14aa83205/)
-
-- ⚡ Fun fact **I think am a Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
