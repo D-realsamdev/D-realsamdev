@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/samdevofficial" target="blank"><img src="https://img.shields.io/twitter/follow/samdevofficial?logo=twitter&style=for-the-badge" alt="samdevofficial" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity and Nodejs**
+- 🌱 I’m currently learning **Go Lang**
 
 - 💬 Ask me about **Software Development**
 
